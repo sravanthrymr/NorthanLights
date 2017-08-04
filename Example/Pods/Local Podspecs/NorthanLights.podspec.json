@@ -1,0 +1,22 @@
+{
+  "name": "NorthanLights",
+  "version": "0.1.0",
+  "summary": "A short description of NorthanLights.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sravanthrymr/NorthanLights",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sravanthrymr": "sravan.vodnala@thrymr.net"
+  },
+  "source": {
+    "git": "https://github.com/sravanthrymr/NorthanLights.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NorthanLights/Classes/**/*"
+}
