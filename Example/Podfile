@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NorthanLights_Example' do
+  pod 'NorthanLights', :path => '../'
+
+  target 'NorthanLights_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
